@@ -1,0 +1,27 @@
+/*
+    Colors:
+    light grey: #D3D3D3;
+    dark orange: #FF8C00;
+*/
+
+
+header {
+    background-color: #D3D3D3;
+    text-align: center;
+}
+
+hr {
+    border-color: #FF8C00;
+}
+
+main {
+    padding: 8px;
+}
+
+h2 {
+    color: #FF8C00;
+}
+
+h3 {
+    font-style: italic;
+}
